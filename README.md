@@ -22,7 +22,7 @@ Transformations on the raw data is implemented to provide:
 - Constructors standings over the year
 The data is stored in delta tables, will be used for the final analysis views
 
-###Data Analysis
+### Data Analysis
 Views are created to generate results for dominant drivers and constructors over the years from 1950 to 2021.
 
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/4118c4c4-c0d8-49b4-a73e-e7d165c321ba" />
