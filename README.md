@@ -11,7 +11,8 @@ Unlike qualifying sessions, which are decided over a single lap, races span mult
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/1ca43c12-d9c3-4e94-a811-c199183ff5d9" />
 
 ### Data Ingestion
-Raw Formula 1 data, sourced from the Ergast API (CSV and JSON formats), is ingested into an Azure Data Lake Storage (ADLS) raw container. Files are stored for specific race dates (Folder -- '2021-03-21 ' contains all the historical data for the races, this data is being fully loaded, files ingested post this date will be incremental loads). Folder Structure:
+Raw Formula 1 data, sourced from the Ergast API (CSV and JSON formats), is ingested into an Azure Data Lake Storage (ADLS) raw container. Files are stored for specific race dates (Folder -- '2021-03-21 ' contains all the historical data for the races, this data is being fully loaded, files ingested post this date will be incremental loads).
+
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/10e643cd-3147-4541-a1a6-cd54477a75de" />
 
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/4118c4c4-c0d8-49b4-a73e-e7d165c321ba" />
