@@ -2,7 +2,11 @@
 ### What is it?
 The project aims to explore and analyse the multifaceted world of F1. 
 ### About F1
-Formula 1 is an annual, global motorsport championship. It involves high-speed races between single-seat, open-wheel cars. These races, called Grands Prix, occur on dedicated race tracks and street circuits worldwide. Teams compete for both Drivers' and Constructors' World Championships across a season. The events span several days, including practice, qualifying, and the final race.
+Formula 1 is an annual, global motorsport championship. It involves high-speed races between single-seat, open-wheel cars. These races, called Grands Prix, occur on dedicated race tracks and street circuits worldwide. Teams compete for both Drivers' and Constructors' World Championships across a season. Formula 1 season happens once a year, woughly over 20 races. Each race happens over a weekend. 
+
+There are various race circuits. Usually there is only one race in a circuit each year. There are 10 teams that participate in each season and they are called constructors in Formula 1. Each team has 2 drivers and each driiver is assigned a specific car. There is a qualifying session on Saturday afternoon and it happens over three different stages. The qualifying results decide the grid position of the driver as to where he'll start the race.
+
+Unlike qualifying sessions, which are decided over a single lap, races span multiple laps, roughly between 50 and 70 laps, depending on the length of the circuit. Also during the race, drivers make pit stops to change the tires or to replace the damaged car. Based on the race results, Drivers and constructors standings are decided. Whichever driver is on the top of the standings at the end of the season is the drivers champion. And similarly, the team that's leading the constructors standings becomes the Constructors champion.
 
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/1ca43c12-d9c3-4e94-a811-c199183ff5d9" />
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/4118c4c4-c0d8-49b4-a73e-e7d165c321ba" />
