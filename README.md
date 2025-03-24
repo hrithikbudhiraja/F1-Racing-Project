@@ -20,7 +20,7 @@ Transformations on the raw data is implemented to provide:
 - individual race_results over the year
 - Driver standings over the year
 - Constructors standings over the year
-The data is stored in delta tables, will be used for the final analysis tables
+The data is stored in delta tables, will be used for the final analysis views
 
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/4118c4c4-c0d8-49b4-a73e-e7d165c321ba" />
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/a5f53a30-6213-4709-9f41-55b1196a6a43" />
