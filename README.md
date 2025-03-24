@@ -9,6 +9,7 @@ There are various race circuits. Usually there is only one race in a circuit eac
 Unlike qualifying sessions, which are decided over a single lap, races span multiple laps, roughly between 50 and 70 laps, depending on the length of the circuit. Also during the race, drivers make pit stops to change the tires or to replace the damaged car. Based on the race results, Drivers and constructors standings are decided. Whichever driver is on the top of the standings at the end of the season is the drivers champion. And similarly, the team that's leading the constructors standings becomes the Constructors champion.
 ### Architecture
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/1ca43c12-d9c3-4e94-a811-c199183ff5d9" />
+### Data Ingestion
 Raw Formula 1 data, sourced from the Ergast API (CSV and JSON formats), is ingested into an Azure Data Lake Storage (ADLS) raw container. Files are stored for specific race dates (Folder -- '2021-03-21 ' contains all the historical data for the races, this data is being fully loaded, files ingested post this date will be incremental loads). Folder Structure:
 <img width="1128" alt="image" src="https://github.com/user-attachments/assets/10e643cd-3147-4541-a1a6-cd54477a75de" />
 
