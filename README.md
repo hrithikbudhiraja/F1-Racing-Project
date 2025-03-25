@@ -1,6 +1,8 @@
 # F1-Racing-Project
 ### What is it?
-The project aims to analyse the dominant drivers and teams in the Formula1 racing championship over several races throughout the year. Leveraging Azure Data Factory and Databricks datalakehouse capabilities the source files are transformed to meaningful insights. 
+•	The project is created to determine dominant drivers and teams in the Formula1 racing championship and analyse their performance over several races throughout the year. Leveraging Azure Data Factory and Databricks datalakehouse capabilities the source files are transformed to meaningful insights. 
+![image](https://github.com/user-attachments/assets/e007cc13-751d-498c-b183-39566b6b54ff)
+
 ### About F1
 Formula 1 is an annual, global motorsport championship. It involves high-speed races between single-seat, open-wheel cars. These races, called Grands Prix, occur on dedicated race tracks and street circuits worldwide. Teams compete for both Drivers' and Constructors' World Championships across a season. Formula 1 season happens once a year, woughly over 20 races. Each race happens over a weekend. 
 
