@@ -1,6 +1,6 @@
 # F1-Racing-Project
 ### What is it?
-•	The project is created to determine dominant drivers and teams in the Formula1 racing championship and analyse their performance over several races throughout the year. Leveraging Azure Data Factory and Databricks datalakehouse capabilities the source files are transformed to meaningful insights. 
+The project is created to determine dominant drivers and teams in the Formula1 racing championship and analyse their performance over several races throughout the year. Leveraging Azure Data Factory and Databricks datalakehouse capabilities the source files are transformed to meaningful insights. 
 ![image](https://github.com/user-attachments/assets/e007cc13-751d-498c-b183-39566b6b54ff)
 
 ### About F1
